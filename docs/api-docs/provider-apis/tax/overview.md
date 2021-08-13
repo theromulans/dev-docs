@@ -193,7 +193,7 @@ If document submission is supported, navigate to **Store Setup > Tax > {Tax Prov
 
 Prior to testing a tax provider, the merchant or partner test store should have the following configured in the BigCommerce control panel:
 
-* The store profile address, found by navigating to **Store Setup > Store Profile** is configured and the selected country is one of the countries supported by the tax provider
+* The store default country, found by navigating to **Store Setup > Store Profile** is configured and the selected country is one of the countries supported by the tax provider
 * The shipping origin address found by navigating to **Store Setup > Shipping** is configured. This value is included in tax estimate requests
 * The tax provider, found by navigating to **Store Setup > Tax** is enabled
 * If document submission is supported, navigate to **Store Setup > Tax > {Tax Provider}** and ensure the submit order data checkbox is checked
